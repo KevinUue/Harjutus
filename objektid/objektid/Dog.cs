@@ -17,6 +17,7 @@ namespace objektid
             Name = "Rex";
             Age = 4;
             Color = "Brown";
+            CalculateDogYears();
         }
 
         public void Bark()
